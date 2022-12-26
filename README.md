@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NotStyxo
+
 - I'm a 14 year old C# developer and A pretty Good Football player ⚽ ⚽ 
 - Im Currently Working on A Leaking tool for Fortnite.
 
